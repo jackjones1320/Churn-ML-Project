@@ -1,4 +1,4 @@
-# Customer Churn Prediction
+# Customer Churn Prediction Template
 
 ## Overview
 This project predicts whether a telecommunications customer will churn (leave the service provider). The goal is to identify customers at high risk of leaving so that retention strategies can be applied.
